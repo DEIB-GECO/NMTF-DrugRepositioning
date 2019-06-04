@@ -11,7 +11,6 @@ This file load create a loader class to import the data from txt and csv files a
 import networkx as nx
 import csv
 
-
 class loader:
     
     #we initialize the loader by giving the paths to the files.
