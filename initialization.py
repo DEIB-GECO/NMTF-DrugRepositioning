@@ -18,17 +18,23 @@ import numpy as np
 
 M10 = np.load('./tmp/M10.npy')
 
-K = [100, 50, 200, 100, 600]
+K = {}
+K['random'] = [100, 1000, 500, 500, 500]
+K['acol'] = [100, 141, 500, 500, 500]
+K['kmeans'] = [100, 141, 500, 500, 500]
+K['skmeans'] = [100, 141, 500, 500, 500]
+
 max_iter = 500
-nb_init = 10
+nb_init = 5
 
 INIT = ['random', 'acol', 'kmeans', 'skmeans']
 
-
 for init in INIT:
-    nmtf = NMTF(init, K, M10)
+    print(init)
+    nmtf = NMTF(init, K[init], M10)
     loss, aps = np.zeros((nb_init, max_iter//10)), np.zeros((nb_init, max_iter//10))
     for i in range(nb_init):
+        print(i)
         nmtf.initialize()
         for p in range(max_iter):
             nmtf.iterate()
