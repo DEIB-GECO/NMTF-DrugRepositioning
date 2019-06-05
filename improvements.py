@@ -28,13 +28,12 @@ MODEL 4: perfect
 M10 = np.load('./tmp/M10.npy')
 max_iter = 500
 
-K_bad = [1000, 50, 200, 250, 30]
+K_bad = [141, 1000, 200, 200, 500]
+K_bad_2 = [100, 40, 100, 200, 100]
 K_good = [500, 141, 500, 500, 300]
 
-
-
 nmtf1 = NMTF('random', K_bad, M10)
-nmtf2 = NMTF('skmeans', K_bad, M10)
+nmtf2 = NMTF('skmeans', K_bad_2, M10)
 nmtf34 = NMTF('skmeans', K_good, M10)
 
 nmtf1.initialize()
