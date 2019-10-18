@@ -1,0 +1,2442 @@
+DB00001	Thrombocytopenia
+DB00002	Colorectal cancer
+DB00004	Advanced non-small cell lung cancer
+DB00004	Leukemia
+DB00004	Lymphoma
+DB00005	Pemphigus vulgaris
+DB00005	Vasculitis
+DB00005	Wegener's granulomatosis
+DB00005	Sciatica
+DB00006	Thrombocytopenia
+DB00007	Prostate cancer
+DB00008	Hairy cell leukemia
+DB00009	Pulmonary embolism
+DB00010	Pediatric growth disorders
+DB00011	Hairy cell leukemia, malignant melanoma
+DB00011	Chronic myelogenous leukaemia
+DB00012	Anemia
+DB00013	Deep venous thrombosis
+DB00013	Pulmonary embolism
+DB00013	Myocardial infarction
+DB00014	Breast cancer
+DB00014	Prostate cancer
+DB00015	Heart attack
+DB00015	Myocardial infarction
+DB00016	Anemia
+DB00017	Osteoporosis
+DB00018	Human immunodeficiency virus infection
+DB00019	Non-myeloid cancer
+DB00020	Bone marrow transplantation
+DB00022	HCV infection
+DB00024	Thyroid cancer diagnosis
+DB00026	Rheumatoid arthritis
+DB00029	Myocardial infarction
+DB00029	Acute coronary thrombosis
+DB00031	Myocardial infarction
+DB00032	Female infertility
+DB00033	Chronic granulomatous disease
+DB00034	ChronicHCV infection
+DB00035	Diabetes
+DB00038	Severe thrombocytopenia
+DB00039	Oral mucositis
+DB00041	Metastatic renal cell carcer
+DB00041	Non-hodgkin's lymphoma
+DB00042	Parkinson's disease
+DB00043	Asthma
+DB00043	Chronic idiopathic urticaria
+DB00043	Chronic idiopathic urticaria
+DB00044	Female infertility
+DB00046	Diabetes
+DB00048	Scar tissue
+DB00050	Controlled ovarian stimulation
+DB00051	Rheumatoid arthritis
+DB00054	Angina pectoris
+DB00055	Severe sepsis
+DB00055	Cerebrovascular ischaemia
+DB00056	Acute myeloid leukemia
+DB00060	Multiple scierosis
+DB00061	Immuno-stimulant
+DB00063	Acute cardiac ischemic events
+DB00065	Asthma
+DB00065	Crohn's disease
+DB00065	Ulcerative colitis
+DB00065	Rheumatoid arthritis
+DB00065	Ankylosing spondylitis
+DB00065	Psoriatic arthritis
+DB00065	Plaque psoriasis
+DB00065	Rheumatoid arthritis
+DB00065	Dermatomyositis
+DB00065	Polymyositis
+DB00065	 Juvenile rheumatoid arthritis
+DB00065	Graft-versus-host disease
+DB00065	Esophagitis
+DB00067	Enuresis
+DB00067	Polyuria
+DB00067	Diabetes insipidus
+DB00068	Multiple scierosis
+DB00069	Hairy cell leukemia
+DB00069	HCV infection
+DB00072	Asthma
+DB00072	Breast cancer
+DB00073	Hematologic malignancies
+DB00073	Non-hodgkin's lymphoma
+DB00074	Organ transplant rejection
+DB00075	Organ rejection
+DB00081	Non-hodgkin's lymphoma
+DB00082	Acromegaly
+DB00083	Strabismus
+DB00083	Blepharospasm
+DB00086	Pulmonary embolism
+DB00087	Multiple scierosis
+DB00087	Chronic lymphocytic leukaemia
+DB00092	Pain
+DB00093	Localisation
+DB00094	Female infertility
+DB00095	Psoriasis
+DB00095	Renal transplantation
+DB00097	Female infertility
+DB00099	Neutropenia
+DB00102	Diabetes
+DB00104	Acromegaly
+DB00105	Hairy cell leukemia
+DB00106	Advanced prostate cancer
+DB00107	Autism
+DB00109	Human immunodeficiency virus infection
+DB00110	Respiratory syncytial virus infection
+DB00111	Multiple scierosis
+DB00112	Glaucoma
+DB00114	Dietary shortage
+DB00115	Anemia
+DB00116	Dietary shortage
+DB00118	Cerebrovascular ischaemia
+DB00120	Dietary shortage
+DB00130	Short bowel syndrome
+DB00135	Dietary shortage
+DB00136	Congenital alopecia
+DB00139	Dietary shortage
+DB00140	Acne vulgaris
+DB00143	Human immunodeficiency virus infection
+DB00145	Dietary shortage
+DB00146	VitaminD deficiency
+DB00150	Depression
+DB00151	Non-small cell lung cancer
+DB00153	Hypoparathyroidism
+DB00157	Parkinson's disease
+DB00158	Vitamin deficiency
+DB00159	Hyperglyceridemic
+DB00160	Dietary shortage
+DB00160	Glioma
+DB00162	Night blindness
+DB00163	Cardiovascular disorder
+DB00168	Poison intoxication
+DB00169	VitaminD deficiency
+DB00170	Vitamin K deficiency
+DB00173	Dietary shortage
+DB00175	Hypercholesterolemia
+DB00176	Depression
+DB00177	Hypertension
+DB00178	Congestive heart failure
+DB00178	Hypertension
+DB00179	Prostate cancer
+DB00180	Allergic rhinitis
+DB00181	Multiple scierosis
+DB00182	Attention deficit disorder with hyperactivity
+DB00182	Attention deficit hyperactivity disorder
+DB00183	Diagnostic imaging
+DB00184	Nicotine dependence
+DB00185	Sjogren's syndrome
+DB00186	Anxiety disorder
+DB00187	Acute supraventricular tachycardia
+DB00188	Multiple myeloma
+DB00188	Non-hodgkin's lymphoma
+DB00188	Mantle cell lymphoma
+DB00189	Insomnia
+DB00190	Parkinson's disease
+DB00191	Obesity
+DB00193	Pain
+DB00194	Herpes simplex virus infection
+DB00195	Hypertension
+DB00196	Fungal infections
+DB00197	Diabetes
+DB00198	Influenza virus
+DB00199	Bacterial infections
+DB00200	Lung injury
+DB00200	VitaminB12 deficiency
+DB00201	Fatigue
+DB00201	Orthostatic hypotension
+DB00202	Spasms
+DB00202	Pain
+DB00203	Erectile dysfunction
+DB00204	Maintenance of normal sinus rhythm
+DB00205	Acute malaria
+DB00206	Hypertension
+DB00208	Stroke
+DB00209	Overactive bladder disorder
+DB00209	Spasm
+DB00210	Acne vulgaris
+DB00211	Orthostatic hypotension
+DB00212	Hypertension
+DB00213	Gastroesophageal reflux disease
+DB00214	Edema associated with congestive heart failure
+DB00215	Depression
+DB00216	Migraine
+DB00217	Hypertension
+DB00217	Heart arrhythmia
+DB00218	Bacterial infections
+DB00219	Visceral spasms
+DB00220	Sars coronavirus infection
+DB00222	Diabetes
+DB00223	Inflammatory and pruritic manifestations of corticosteroid responsive dermatoses
+DB00224	Human immunodeficiency virus infection
+DB00227	Hypercholesterolemia
+DB00228	Anesthesia
+DB00229	Bacterial respiratory tract infection
+DB00230	Chronic obstructive pulmonary disease
+DB00231	Insomnia
+DB00232	Hypertension
+DB00232	Edema
+DB00233	Inflammatory bowel disease
+DB00234	Depression
+DB00235	Congestive heart failure
+DB00237	Insomnia
+DB00238	Human immunodeficiency virus infection
+DB00239	Tinea pedis
+DB00240	Inflammatory disease
+DB00241	Headache
+DB00241	Anxiety disorder
+DB00242	Hairy cell leukemia
+DB00243	Chronic angina
+DB00244	Ulcerative colitis
+DB00246	Schizophrenia
+DB00247	Migraine headaches
+DB00248	Hyperprolactinemia
+DB00249	Herpes simplex virus infection
+DB00250	Pneumocystis carinii pneumonia
+DB00251	Candidiasis infection
+DB00252	Seizures occurring during or following neurosurgery
+DB00253	Eye inflammation
+DB00254	Advanced gum disease
+DB00254	Chronic periodontitis
+DB00254	Diabetic foot ulcer
+DB00255	Gonorrheal vaginitis
+DB00255	Cancer
+DB00256	Bacterial infections
+DB00257	Fungal infections
+DB00259	Bacterial infections
+DB00260	Tuberculosis
+DB00260	Dementia
+DB00261	Thrombocythemia
+DB00262	Brain cancer
+DB00263	Urinary tract infections
+DB00263	Meningococcal meningitis
+DB00263	Acute otitis media
+DB00264	Angina pectoris
+DB00264	Hypertension
+DB00267	Bacterial infections
+DB00268	Parkinson's disease
+DB00269	Menopause symptoms
+DB00269	Hormone refractory prostate cancer
+DB00270	Hypertension
+DB00272	Gastric secretory disorders
+DB00273	Epilepsy
+DB00273	Alcohol use disorders
+DB00274	Bacterial infections
+DB00276	Acute lymphoblastic leukemia
+DB00277	Chronic obstructive pulmonary disease
+DB00278	Thrombosis
+DB00279	Hypothyroidism of any etiology
+DB00280	Urinary incontinence
+DB00280	Ventricular arrhythmias
+DB00281	Anesthesia
+DB00281	Dysmenorrhea
+DB00282	Hypercalcemia
+DB00283	Allergic rhinitis
+DB00284	Cardiovascular disorder
+DB00284	Diabetes
+DB00285	Depression
+DB00286	Vasomotor symptoms
+DB00287	Open-angle glaucoma
+DB00287	Ocular hypertension
+DB00288	Inflammatory disease
+DB00289	Attention deficit hyperactivity disorder
+DB00290	Hodgkin's lymphoma
+DB00292	Anesthesia
+DB00293	Colon cancer
+DB00293	Rectal cancer
+DB00294	Female contraception
+DB00295	Chronic pain
+DB00296	Anesthesia
+DB00297	Anesthesia
+DB00298	Glaucoma
+DB00299	Human immunodeficiency virus infection
+DB00301	Bacterial infections
+DB00302	Excessive bleeding
+DB00303	Bacterial infections
+DB00304	Hormonal contraceptives
+DB00306	Sedation
+DB00307	CutaneousT-cell lymphoma
+DB00308	Atrial fibrillation
+DB00309	Acute lymphoblastic leukemia
+DB00310	Hypertension
+DB00310	Edema
+DB00311	Glaucoma
+DB00311	Duodenal ulcers
+DB00312	Insomnia
+DB00312	Anxiety disorder
+DB00313	Epilepsy
+DB00315	Migraine
+DB00316	Pain
+DB00317	Cancer
+DB00317	Head and neck cancer
+DB00317	Urethral cancer
+DB00317	Bladder cancer
+DB00317	Ovarian cancer
+DB00317	Prostate cancer
+DB00317	Breast cancer
+DB00318	Cough
+DB00318	Pain
+DB00319	Bacterial infections
+DB00320	Migraine headaches
+DB00321	Depression
+DB00321	Chronic pain
+DB00322	Cancer
+DB00323	Parkinson's disease
+DB00324	Corticosteroid-responsive inflammation
+DB00325	Hypertension
+DB00327	Moderate-to-severe pain
+DB00330	Pulmonary tuberculosis
+DB00331	Type 2 diabetes
+DB00332	Obstructive lung diseases
+DB00333	Dry cough
+DB00333	Drug withdrawal syndrome
+DB00333	Ppioid type drug dependence
+DB00334	Schizophrenia
+DB00335	Hypertension
+DB00337	Atopic dermatitis
+DB00338	Gastroesophageal reflux disease
+DB00340	Parkinson's disease
+DB00341	Allergic rhinitis
+DB00342	Allergy
+DB00343	Hypertension
+DB00344	Depression
+DB00344	Bipolar disorder
+DB00346	Benign prostatic hyperplasia
+DB00347	Epileptic conditions
+DB00347	Pancreatic cancer
+DB00348	Hereditary tyrosinemia type 1
+DB00349	Epilepsy
+DB00349	Anxiety disorder
+DB00350	Hypertension
+DB00354	Nausea
+DB00354	Vomiting
+DB00355	Bacterial infections
+DB00356	Acute pain
+DB00357	Cushing's disease
+DB00357	Metastatic breast cancer
+DB00358	Malaria
+DB00359	Rheumatic fever
+DB00359	Meningococcal meningitis
+DB00361	Cancer
+DB00362	Convulsions
+DB00363	Schizophrenia
+DB00364	Acne vulgaris
+DB00365	Bacterial infections
+DB00365	Chronic bronchitis
+DB00366	Anxiety disorder
+DB00366	Morning sickness
+DB00367	Hormonal contraceptives
+DB00368	Septic shock
+DB00368	Neurogenic shock
+DB00369	Cytomegalovirus infection
+DB00370	Depression
+DB00371	Anxiety disorder
+DB00372	Nausea
+DB00372	Vomiting
+DB00373	High blood pressure
+DB00374	Pulmonary arterial hypertension
+DB00376	Parkinson's disease
+DB00376	Dystonia
+DB00377	Nausea
+DB00377	Vomiting
+DB00378	Menstrual disorders
+DB00379	Ventricular tachycardia
+DB00379	Symptomatic premature ventricular beats
+DB00379	Ventricular fibrillation
+DB00380	Breast cancer
+DB00381	Hypertension
+DB00381	Angina
+DB00382	Alzheimer disease
+DB00383	Peptic ulcer
+DB00384	Hypertension
+DB00384	Edema
+DB00384	Congestive heart failure
+DB00385	Bladder cancer
+DB00385	Psoriasis
+DB00387	Parkinson's disease
+DB00388	Ophthalmic disease
+DB00389	Hyperthyroidism
+DB00390	Congestive cardiac insufficiency
+DB00390	Arrhythmias
+DB00390	Heart failure
+DB00391	Schizophrenia
+DB00393	Cerebral vasospasm
+DB00395	Musculoskeletal disease
+DB00396	Premature labour
+DB00397	Obesity
+DB00398	Advanced renal cell carcinoma
+DB00398	Hepatocellular carcinoma
+DB00398	NSCLC
+DB00398	Melanoma
+DB00398	Myelodysplastic syndrome
+DB00398	AML
+DB00398	Head and neck cancer
+DB00398	Breast cancer
+DB00398	Pancreatic cancer
+DB00400	Ringworm infections
+DB00401	Hypertension
+DB00402	Insomnia
+DB00403	Caerulein stimulated gastric and pancreatic secretion
+DB00403	Cancer
+DB00404	Anxiety disorder
+DB00405	Hay fever
+DB00405	Allergic rhinitis
+DB00407	Deep vein thrombosis
+DB00408	Schizophrenia
+DB00409	Schizophrenia
+DB00410	Bacterial infections
+DB00413	Parkinson's disease
+DB00414	Diabetes
+DB00415	Bacterial infections
+DB00416	Anesthesia
+DB00418	Intractable insomnia
+DB00419	Type 1 gaucher disease
+DB00420	Moderate and severe psychomotor agitation
+DB00421	Congestive heart failure
+DB00422	Attention deficit hyperactivity disorder
+DB00422	Traumatic brain injury
+DB00423	Musculoskeletal disease
+DB00424	Gastrointestinal disease
+DB00425	Insomnia
+DB00425	Sleep maintenance insomnia
+DB00426	Viral infections
+DB00427	Hay fever
+DB00428	Metastatic islet cell carcinoma
+DB00429	Aborting pregnancy
+DB00430	Bacterial infections
+DB00431	Infestations of lice and scabies
+DB00432	Viral infections
+DB00433	Nausea
+DB00433	Vomiting
+DB00434	Perennial and seasonal allergic rhinitis
+DB00434	Vasomotor rhinitis
+DB00434	Allergic conjunctivitis
+DB00435	Cancer
+DB00435	Respiratory failure
+DB00436	High blood pressure
+DB00437	Hyperuricemia
+DB00438	Bacterial infections
+DB00439	Hyperlipidaemia
+DB00440	Urinary tract infections
+DB00441	Cancer
+DB00443	Inflammatory disease
+DB00444	Acute lymphoblastic leukemia
+DB00445	Cancer
+DB00446	Bacterial infections
+DB00447	Bacterial infections
+DB00448	Nsaid-related gastric ulcer
+DB00448	Peptic ulcer
+DB00449	Chronic open-angle glaucoma
+DB00450	Nausea
+DB00450	Vomiting
+DB00451	Hypothyroidism
+DB00452	Bacterial infections
+DB00453	Bacterial infections
+DB00454	Moderate-to-severe pain
+DB00455	Allergic rhinitis
+DB00455	Allergy
+DB00456	Bacterial infections
+DB00457	Hypertension
+DB00457	Symptomatic benign prostatic hyperplasia
+DB00457	Severe congestive heart failure
+DB00458	Depression
+DB00458	Anxiety disorder
+DB00459	Psoriasis
+DB00461	Pain
+DB00462	Postoperative nausea and vomiting
+DB00463	Epilepsy
+DB00464	Varicose and spider veins of leg
+DB00464	Hemangioma
+DB00465	Postoperative inflammation undergone cataract extraction
+DB00466	Respiratory distress syndrome
+DB00467	Urinary tract infections
+DB00468	Malaria
+DB00469	Rheumatold arthritis
+DB00469	Osteoarthritis
+DB00471	Asthma
+DB00472	Depression
+DB00473	Anesthesia
+DB00473	Local anaesthetic
+DB00474	Anesthesia
+DB00475	Anxiety disorder
+DB00476	Depression
+DB00477	Schizophrenia
+DB00478	InfluenzaA infection
+DB00479	Bacterial infections
+DB00480	Multiple myeloma
+DB00480	Anaemia
+DB00481	Osteoporosis
+DB00481	Osteoporosis
+DB00482	Pain
+DB00482	Rheumatold arthritis
+DB00482	Osteoarthritis
+DB00483	Stabilize muscle contractions
+DB00484	Ocular hypertension
+DB00485	Bacterial infections
+DB00486	Insomnia
+DB00487	Gonococcal urethritis
+DB00489	Maintenance of normal sinus rhythm
+DB00490	Anxiety disorder
+DB00491	Diabetes
+DB00492	Hypertension
+DB00493	Bacterial infections
+DB00494	Parkinson's disease
+DB00495	Human immunodeficiency virus infection
+DB00496	Overactive bladder disorder
+DB00497	Pain
+DB00498	Pulmonary embolism
+DB00498	Blood clotting disorder
+DB00499	Prostate cancer
+DB00500	Rheumatold arthritis
+DB00500	Osteoarthritis
+DB00501	Acid-reflux disorders
+DB00502	Schizophrenia
+DB00503	Human immunodeficiency virus infection
+DB00504	Narcotic depression
+DB00505	Acquired nystagmus
+DB00507	Diarrhea
+DB00508	Psychoses
+DB00511	Congestive heart failure
+DB00513	Excessive postoperative bleeding
+DB00514	Cough
+DB00514	Pain
+DB00515	Cancer
+DB00517	Peptic ulcer
+DB00518	Worm infections
+DB00519	Hypertension
+DB00520	Fungal infections
+DB00521	Glaucoma
+DB00522	Pancreatic cancer
+DB00523	Kaposi's sarcoma
+DB00524	Hypertension
+DB00524	Edema
+DB00525	Jock itch
+DB00525	Athlete's foot
+DB00528	Hypertension
+DB00528	Hypertension
+DB00530	Colon cancer
+DB00530	Glioma
+DB00530	Breast cancer
+DB00530	Head and neck cancer
+DB00530	Non-small cell lung cancer
+DB00530	Pancreatic cancer
+DB00531	Cancer
+DB00532	Epilepsy
+DB00533	Osteoarthritis
+DB00535	Bacterial infections
+DB00539	Breast cancer
+DB00540	Depression
+DB00541	Acute lymphoblastic leukemia
+DB00542	Hypertension
+DB00543	Major depressive disorder
+DB00544	Cancer
+DB00545	Myasthenia gravis
+DB00546	Anxiety disorder
+DB00546	Status epilepticus
+DB00547	Inflammatory disease
+DB00548	Acne vulgaris
+DB00549	Asthma
+DB00550	Hyperthyroidism
+DB00550	Alcoholic hepatitis
+DB00551	Urinary tract infections
+DB00552	Hairy cell leukemia
+DB00554	Pain
+DB00555	Epilepsy
+DB00555	Bipolar disorder
+DB00557	Anxiety disorder
+DB00558	Influenza virus
+DB00559	Pulmonary arterial hypertension
+DB00560	Skin infections
+DB00561	Respiratory disease
+DB00562	High blood pressure
+DB00562	Edema
+DB00563	Cancer
+DB00563	Leukemia
+DB00564	Epilepsy
+DB00565	Muscle relaxant
+DB00567	Bacterial infections
+DB00568	Vertigo meniere's disease
+DB00570	Cancer
+DB00571	Migraine
+DB00572	Organophosphate poisoning
+DB00572	Poison intoxication
+DB00573	Rheumatoid arthritis
+DB00574	Obesity
+DB00575	Hypertension
+DB00576	Urinary tract infections
+DB00577	Viral infections
+DB00579	Obesity
+DB00580	Osteoarthritis
+DB00580	Rheumatoid arthritis
+DB00581	Constipation
+DB00582	Invasive aspergillosis
+DB00583	Nutritional deficiency
+DB00584	Hypertension
+DB00585	Acid-reflux disorders
+DB00586	Osteoarthritis of knee
+DB00586	Unspecified
+DB00587	Asthma
+DB00589	Fibrosis
+DB00589	Parkinson's disease
+DB00590	Hypertension
+DB00591	Inflammatory disease
+DB00592	Ascariasis
+DB00592	Enterobiasis
+DB00593	Epilepsy
+DB00594	Congestive heart failure
+DB00594	Hypertension
+DB00595	Bacterial infections
+DB00598	Hypertension
+DB00599	Anesthesia
+DB00600	Vitiligo
+DB00602	Intestinal strongyloidiasis due to nematode parasite
+DB00604	Gastroesophageal reflux disease
+DB00605	Rheumatoid arthritis
+DB00606	Edema associated with congestive heart failure
+DB00607	Arthritis
+DB00608	Malaria
+DB00609	Tuberculosis
+DB00610	Hypotension
+DB00611	Pain
+DB00612	Hypertension
+DB00613	Malaria
+DB00615	Tuberculosis
+DB00615	Mycobacterium avium complex disease
+DB00616	Hypertension
+DB00617	Paramethadione syndrome
+DB00617	Seizures
+DB00618	Lyme disease
+DB00618	Acne
+DB00618	Bronchitis
+DB00619	Chronic myelogenous leukaemia
+DB00619	Glioma
+DB00619	Lung cancer
+DB00619	Prostate cancer
+DB00619	Solid tumours
+DB00619	Intestinal cancer
+DB00619	Myeloid leukemia
+DB00620	Allergic rhinitis
+DB00621	Alcoholic hepatitis
+DB00622	High blood pressure
+DB00622	Angina
+DB00623	Psychotic disorders
+DB00624	Hormone deficiency
+DB00624	Male hormonal deficiencies
+DB00624	Osteoporosis
+DB00625	Human immunodeficiency virus infection
+DB00626	Skin infections
+DB00628	Anxiety disorder
+DB00628	Insomnia
+DB00629	High blood pressure
+DB00631	Myelodysplastic syndrome
+DB00631	Acute lymphoblastic leukemia
+DB00632	Herpes simplex virus infection
+DB00633	Sedation
+DB00634	Acne vulgaris
+DB00635	Inflammatory disease
+DB00636	Dysbetalipoproteinemia
+DB00637	Allergic rhinitis
+DB00638	Measure kidney function
+DB00640	Paroxysmal supraventricular tachycardia
+DB00641	Hypercholesterolemia
+DB00642	Malignant pleural mesothelioma
+DB00643	Worm infections
+DB00644	Hypothalamic hypogonadism
+DB00645	Pain
+DB00647	Pain
+DB00648	Adrenocortical carcinoma
+DB00649	Human immunodeficiency virus infection
+DB00651	Acute bronchial asthma
+DB00652	Moderate to severe pain
+DB00653	Acute pain
+DB00654	Glaucoma
+DB00654	Glaucoma
+DB00654	Open-angle glaucoma
+DB00654	Ocular hypertension
+DB00655	Menopausal disorder
+DB00655	Postmenopausal disorder
+DB00656	Depression
+DB00657	Moderately severe to severe essential hypertension
+DB00659	Alcohol use disorders
+DB00661	Hypertension
+DB00661	Angina
+DB00664	Urinary tract infections
+DB00665	Prostate cancer
+DB00666	Endometriosis
+DB00668	Allergy
+DB00668	Sepsis
+DB00669	Migraine headaches
+DB00670	Peptic ulcer
+DB00671	Bacterial infections
+DB00672	Non-insulin dependent diabetes
+DB00673	Nausea
+DB00673	Vomiting
+DB00674	Alzheimer disease
+DB00675	Breast cancer
+DB00677	Glaucoma
+DB00678	Hypertension
+DB00679	Schizophrenia
+DB00680	Arrhythmia
+DB00680	Heart arrhythmia
+DB00682	Atrial fibrillation
+DB00683	Sedation
+DB00684	Bacterial infections
+DB00685	Bacterial infections
+DB00686	Interstitial cystitis
+DB00686	Painful bladder syndrome
+DB00687	Cerebral salt-wasting syndrome
+DB00688	Organ transplant rejection
+DB00688	Pemphigus vulgaris
+DB00689	Bacterial infections
+DB00690	Insomnia
+DB00691	Hypertension
+DB00692	Dermal necrosis
+DB00693	Ocular disease
+DB00694	Acute myeloid leukemia
+DB00695	Edema associated with congestive heart failure
+DB00696	Headache
+DB00697	Spasms
+DB00697	Pain
+DB00698	Urinary tract infections
+DB00699	Senile dementia
+DB00699	Brain ischaemia
+DB00700	Heart failure
+DB00701	Human immunodeficiency virus infection
+DB00703	Glaucoma
+DB00704	Alcohol dependence
+DB00704	Human immunodeficiency virus infection
+DB00705	Human immunodeficiency virus infection
+DB00706	Benign prostatic hyperplasia
+DB00707	Non-small cell lung cancer
+DB00708	Analgesia
+DB00709	HIV infection
+DB00709	Chronic hepatitis b
+DB00710	Osteoporosis in post-menopausal women
+DB00711	Lymphatic filariasis
+DB00712	Rheumatoid arthritis
+DB00713	Bacterial infections
+DB00714	Parkinson's disease
+DB00715	Depression
+DB00718	HBV infection
+DB00719	Allergic rhinitis
+DB00721	Local anaesthetic
+DB00722	Hypertension
+DB00723	Hypertension
+DB00724	Skin cancers
+DB00725	Peptic ulcer
+DB00725	Uveitis
+DB00726	Major depressive disorder
+DB00727	Angina pectoris
+DB00728	Muscle relaxant
+DB00729	Peptic ulcer
+DB00730	Dutch elm disease
+DB00730	Helminth infection
+DB00731	Diabetes
+DB00734	Schizophrenia
+DB00735	Dermatomycosis
+DB00736	Peptic ulcer
+DB00737	Nausea
+DB00737	Vomiting
+DB00737	Dizziness
+DB00738	Fungal infections
+DB00738	Human immunodeficiency virus infection
+DB00739	Bacterial infections
+DB00739	Bacterial infections
+DB00740	Amyotrophic lateral sclerosis
+DB00741	Inflammatory disease
+DB00744	Asthma
+DB00745	Narcolepsy
+DB00747	Nausea
+DB00747	Addiction
+DB00748	Seasonal and perennial allergic rhinitis and vasomotor rhinitis
+DB00749	Pain
+DB00750	Pain
+DB00751	Allergic conjunctivitis
+DB00752	Major depressive episode without melancholia
+DB00753	Anesthesia
+DB00754	Complex partial seizures
+DB00755	Acne vulgaris
+DB00755	Acute promyelocytic leukemia
+DB00756	Bacterial infections
+DB00757	Nausea
+DB00757	Vomiting
+DB00758	Thrombosis
+DB00759	Bacterial infections
+DB00760	Bacterial infections
+DB00761	Hypokalemia
+DB00762	Colorectal cancer
+DB00763	Hyperthyroidism
+DB00764	Skin allergies
+DB00765	Pheochromocytoma
+DB00767	Nausea
+DB00767	Vomiting
+DB00767	Emesis
+DB00768	Allergic conjunctivitis
+DB00768	Ocular allergy
+DB00769	Inflammatory disease
+DB00770	Erectile dysfunction
+DB00771	Abdominal stomach pain
+DB00771	Irritable bowel syndrome
+DB00772	Pediculus humanus capitis
+DB00773	Cancer
+DB00774	Edema associated with congestive heart failure
+DB00775	Acute coronary syndrome
+DB00776	Epilepsy
+DB00777	Insomnia
+DB00777	Anxiety disorder
+DB00778	Bacterial infections
+DB00780	Depression
+DB00780	Anxiety disorder
+DB00782	Excessive sweating
+DB00782	Stomach ulcer
+DB00783	Breast cancer
+DB00784	Rheumatold arthritis
+DB00784	Osteoarthritis
+DB00784	Dysmenorrhea
+DB00786	Pancreatic cancer
+DB00786	Pancreatic cancer
+DB00786	Lung cancer
+DB00788	Osteoarthritis
+DB00788	Rheumatoid arthritis
+DB00788	Pain
+DB00790	Hypertension
+DB00792	Hypersensitivity reactions
+DB00792	Coughs
+DB00792	Common colds
+DB00794	Epilepsy
+DB00795	Inflammatory bowel dieasea
+DB00795	Rheumatoid arthritis
+DB00797	Peripheral vasoconstriction
+DB00797	Pulmonary hypertension
+DB00798	Bacterial infections
+DB00799	Psoriasis
+DB00800	Hypertension
+DB00801	Anxiety disorder
+DB00802	Anesthesia
+DB00804	Functional bowel syndrome
+DB00804	Irritable bowel syndrome
+DB00805	Depression
+DB00805	Cerebral infarction
+DB00806	Intermittent claudication
+DB00807	Anesthesia
+DB00808	Hypertension
+DB00809	Mydriasis diagnosis
+DB00810	Parkinsonism
+DB00810	Extrapyramidal disorders secondary to neuroleptic drug therapy
+DB00811	HCV infection
+DB00812	Chronic pain
+DB00812	Ankylosing spondylitis
+DB00813	Analgesia
+DB00814	Arthritis
+DB00816	Asthma
+DB00817	Bacterial infections
+DB00818	Anesthesia
+DB00818	Unspecified
+DB00819	Glaucoma
+DB00820	Erectile dysfunction
+DB00821	Pain
+DB00822	Alcohol use disorders
+DB00823	Hormonal contraceptives
+DB00824	Asthma
+DB00827	Urinary tract infections
+DB00828	Bacterial infections
+DB00829	Epilepsy
+DB00830	Obesity
+DB00831	Schizophrenia
+DB00831	Generalized non-psychotic anxiety
+DB00833	Bacterial infections
+DB00834	Cushing's disease
+DB00835	Allergic rhinitis
+DB00836	Acute nonspecific diarrhea
+DB00836	Chronic diarrhea associated with inflammatory bowel disease
+DB00837	Depression
+DB00838	Inflammatory and pruritic manifestations of moderate to severe corticosteroid-responsive dermatoses of the scalp
+DB00839	Diabetes
+DB00841	Heart failure
+DB00841	Cardiogenic shock
+DB00842	Anxiety disorder
+DB00843	Alzheimer disease
+DB00844	Pain
+DB00845	Crohn's disease
+DB00846	Inflammatory disease
+DB00847	Nephropathic cystinosis
+DB00848	Anthelmintic
+DB00848	Colon cancer
+DB00849	Anxiety disorder
+DB00850	Schizophrenia
+DB00850	Bipolar disorder
+DB00851	Melanoma
+DB00852	Nasal congestion
+DB00854	Moderate to severe pain
+DB00855	Photodynamic therapy
+DB00857	Fungal infections
+DB00860	Cancer
+DB00860	Multiple scierosis
+DB00861	Pain
+DB00862	Erectile dysfunction
+DB00863	Peptic ulcer
+DB00864	Ocular allergy
+DB00864	Organ transplant rejection
+DB00865	Exogenous obesity
+DB00866	Hypertension
+DB00867	Premature labour
+DB00868	Cough
+DB00869	Open-angle glaucoma
+DB00870	Miosis during ocular surgery
+DB00870	Dysmenorrhea
+DB00871	Asthma
+DB00872	Euvolemic hyponatremia
+DB14596	Eye inflammation
+DB00876	Hypertension
+DB00877	Dutch elm disease
+DB00877	Organ rejection
+DB00879	HBV infection
+DB00879	Hepatitis virus infection
+DB00879	Human immunodeficiency virus infection
+DB00880	Edema associated with congestive heart failure
+DB00881	Hypertension
+DB00882	Female infertility
+DB00883	Angina pectoris
+DB00883	Anal fissure
+DB00884	Paget's disease
+DB00886	Hypertension
+DB00887	Edema associated with congestive heart failure
+DB00889	Nausea and vomiting associated with chemotherapy
+DB00890	Atrophic vaginitis
+DB00891	Dermatitis herpetiformis
+DB00892	Anesthesia
+DB00893	Iron deficiency anaemia
+DB00894	Advanced breast cancer
+DB00895	Bacterial infections
+DB00896	Arthritis
+DB00897	Insomnia
+DB00898	Intractable chronic pain
+DB00898	Cystitis
+DB00899	General anesthesia
+DB00900	Human immunodeficiency virus infection
+DB00901	Asthma
+DB00901	Asthma
+DB00901	Chronic obstructive pulmonary disease
+DB00902	Allergic rhinitis
+DB00904	Alcohol use disorders
+DB00904	Chemotherapy-induced nausea
+DB00905	Alopecia
+DB00906	Anxiety disorder
+DB00906	Insomnia
+DB00906	Panic disorder
+DB00906	Epilepsy
+DB00907	Anesthesia
+DB00907	Ocular disease
+DB00909	Epilepsy
+DB00910	Hyperparathyroidism
+DB00912	Diabetes
+DB00913	Pain
+DB00914	Diabetes
+DB00915	InfluenzaA infection
+DB00916	Amebiasis
+DB00916	Crohn's disease
+DB00917	Medical abortion
+DB00919	Bacterial infections
+DB00920	Allergic conjunctivitis
+DB00921	Pain
+DB00922	Congestive heart failure
+DB00923	Bacterial infections
+DB00924	Depression
+DB00925	Malignant phaeochromocytoma
+DB00925	Benign prostatic hypertrophy
+DB00925	Malignant essential hypertension
+DB00926	Keratosis
+DB00927	Peptic ulcer
+DB00928	Myelodysplastic syndrome
+DB00929	Medical abortion
+DB00932	Human immunodeficiency virus infection
+DB00933	Schizophrenia
+DB00934	Major depressive disorder
+DB00935	Nasal congestion
+DB00935	Eye irritations
+DB00937	Migraine
+DB00937	Obisity
+DB00938	Chronic obstructive pulmonary disease
+DB00939	Joint and muscular pain
+DB00939	Ankylosing spondylitis
+DB00940	Peptic ulcer disease
+DB00940	Irritable bowel syndrome
+DB00940	Pancreatitis
+DB00940	Gastritis
+DB00942	Parkinson's disease
+DB00943	Human immunodeficiency virus infection
+DB00946	Thrombosis
+DB00947	Breast cancer
+DB00948	Urinary tract infections
+DB00949	Epilepsy
+DB00950	Allergic rhinitis
+DB00951	Tuberculosis
+DB00952	Migraine headaches
+DB00953	Acute migraine
+DB00955	Bacterial infections
+DB00956	Pain
+DB00957	Hormonal contraceptives
+DB00960	Hypertension
+DB00960	Angina
+DB00961	Local or regional analgesia and anesthesia
+DB00962	Insomnia
+DB00963	Inflammatory disease
+DB00963	Postoperative inflammation
+DB00964	Additional intra ocular pressure reduction
+DB00966	Hypertension
+DB00967	Allergic rhinitis
+DB00968	Hypertension
+DB00969	Irritable bowel syndrome
+DB00970	Cancer
+DB00972	Allergic conjunctivitis
+DB00973	Hypercholesterolemia
+DB00975	Hypertension
+DB00978	Bacterial infections
+DB00979	Produce mydriasis and cycloplegia for diagnostic purposes
+DB00980	Circadian rhythm sleep disorder
+DB00980	Insomnia
+DB00981	Xerostomia
+DB00982	Acne vulgaris
+DB00983	Asthma
+DB00985	Nausea
+DB00985	Vomiting
+DB00987	Acute lymphoblastic leukemia
+DB00988	Hypotension
+DB00988	Parkinson's disease
+DB00990	Hormonally-responsive breast cancer
+DB00991	Rheumatoid arthritis
+DB00992	Acne vulgaris
+DB00993	Organ transplant rejection
+DB00994	Acute hepatic failure
+DB00994	Alcoholic cirrhosis of liver
+DB00995	Inflammatory arthritis
+DB00996	Cancer
+DB00996	Partial seizures
+DB00997	Cancer
+DB00998	Migraine headaches
+DB00999	Luid retention
+DB01000	Bacterial infections
+DB01001	Acute asthma
+DB01002	Anesthesia
+DB01004	Viral infections
+DB01005	Chronic myelogenous leukaemia
+DB01006	Hormonally-responsive breast cancer
+DB01007	Onychomycosis
+DB01009	Pain
+DB01009	Rheumatold arthritis
+DB01009	Pain
+DB01010	Myasthenia gravis diagnosis
+DB01011	Cushing's disease
+DB01012	Cardiovascular disease
+DB01012	 Kidney disease
+DB01012	Hyperparathyroidism
+DB01014	Inflammatory bowel disease
+DB01015	Bacterial infections
+DB01017	Bacterial infections
+DB01019	Urinary retention
+DB01020	Hydrocephalus
+DB01020	Glaucoma
+DB01021	Oedema and hypertension
+DB01023	Hypertension
+DB01025	Respiratory tract inflammation
+DB01026	Fungal infections
+DB01028	Anesthesia
+DB01029	Hypertension
+DB01030	Ovarian cancer
+DB01031	Insomnia
+DB01032	Gout
+DB01032	Hyperuricemia
+DB01033	Acute lymphoblastic leukemia
+DB01034	Dramatic weight loss
+DB01035	Ventricular arrhythmias
+DB01036	Overactive bladder
+DB01037	Major depressive disorder
+DB01039	High cholesterol level
+DB01039	High triglyceride level
+DB01041	Multiple myeloma
+DB01043	Alzheimer disease
+DB01044	Respiratory tract infection
+DB01046	Chronic idiopathic constipation
+DB01047	Inflammatory disease
+DB01048	Human immunodeficiency virus infection
+DB01049	Alzheimer disease
+DB01050	Pain
+DB01051	Bacterial infections
+DB01054	Hypertension
+DB01056	Ventricular arrhythmias
+DB01059	Bacterial infections
+DB01060	Bacterial infections
+DB01061	Pseudomonas aeruginosa infection
+DB01061	Haemophilus influenzae infection
+DB01063	False perceptions
+DB01063	Bipolar disorder
+DB01065	Insomnia
+DB01066	Bacterial infections
+DB01067	Diabetes
+DB01068	Epilepsy
+DB01068	Seizures
+DB01069	Allergic disorders
+DB01069	Itching
+DB01069	Nausea
+DB01070	Hypocalcemia
+DB01070	Hypoparathyroidism
+DB01071	Allergic rhinitis
+DB01072	Human immunodeficiency virus infection
+DB01073	Hematological malignancies
+DB01074	Angina pectoris
+DB01075	Vertigo's disease
+DB01075	Meniere's disease
+DB01076	Cardiovascular disease
+DB01076	Hyperlipidemia
+DB01076	Dyslipidemia
+DB01077	Paget's disease
+DB01078	Congestive cardiac insufficiency
+DB01078	Arrhythmias
+DB01078	Heart failure
+DB01079	Dyspepsia
+DB01079	Gastro-oesophageal reflux
+DB01079	Irritable bowel syndrome
+DB01079	Irritable bowel syndrome
+DB01080	Epilepsy
+DB01080	Infantile spasms
+DB01080	Complex partial seizures
+DB01081	Diarrhea
+DB01082	Bacterial infections
+DB01083	Obesity
+DB01084	Allergic conjunctivitis
+DB01085	Glaucoma
+DB01086	Anesthesia
+DB01087	Malaria
+DB01088	Pulmonary arterial hypertension
+DB01089	Hypertension
+DB01090	Hypotension
+DB01091	Dermatologic infections
+DB01092	Atrial fibrillation
+DB01092	Heart failure
+DB01094	High cholesterol level
+DB01095	Hypercholesterolemia
+DB01097	Multiple scierosis
+DB01097	Active rheumatoid arthritis
+DB01098	ElevatedCRP
+DB01098	Hypercholesterolemia
+DB01099	Endocarditis
+DB01100	Schizophrenia
+DB01101	Breast cancer
+DB01101	Colorectal cancer
+DB01102	Coronary artery disease
+DB01104	Depression
+DB01105	Obesity
+DB01106	Allergic conjunctivitis
+DB01107	Insomnia
+DB01108	Cushing's disease
+DB01109	Deep vein thrombosis
+DB01110	Fungal infections
+DB01112	Acute bronchitis
+DB01113	Spasm
+DB01115	Angina pectoris
+DB01116	Hypertensive emergencies
+DB01116	Aneurysm
+DB01117	Fungal infections
+DB01118	Tachyarrhythmias
+DB01119	Hypertension
+DB01120	Diabetes
+DB01121	Epilepsy
+DB01122	Myasthenia gravis
+DB01123	Sepsis
+DB01124	Non-insulin dependent diabetes
+DB01126	Benign prostatic hyperplasia
+DB01126	Prostate cancer
+DB01127	Chronic pain
+DB01127	Tinea pedis
+DB01127	Tinea cruris
+DB01127	Tinea corporis
+DB01127	Cutaneous candidiasis
+DB01127	Tinea versicolor
+DB01128	Advanced prostate cancer
+DB01129	Bacterial infections
+DB01130	Inflammatory disease
+DB01131	Malaria
+DB01132	Diabetes
+DB01133	Osteoporosis
+DB01134	Addison's disease
+DB01135	Spasms
+DB01135	Pain
+DB01136	Congestive heart failure
+DB01137	Bacterial infections
+DB01138	Gout
+DB01138	Arthritis
+DB01140	Bacterial infections
+DB01141	Candidiasis infection
+DB01142	Depression
+DB01143	Mucositis
+DB01145	Leprosy and dermatitis herpetiformis
+DB01146	Allergic rhinitis
+DB01147	Bacterial infections
+DB01148	Dysuria
+DB01148	Urgency
+DB01148	Nocturia
+DB01148	Suprapubic pain
+DB01149	Depression
+DB01149	Major depressive disorder
+DB01150	Bacterial infections
+DB01151	Depression
+DB01151	Attention deficit hyperactivity disorder
+DB01153	Fungal infections
+DB01154	Anesthesia
+DB01155	Bacterial infections
+DB01156	Smoking cessation
+DB01157	Toxoplasmosis
+DB01157	Pneumocystis carinii pneumonia
+DB01158	Ventricular fibrillation
+DB01159	Anesthesia
+DB01160	Aborting second-trimester pregnancy
+DB01161	Anesthesia
+DB01162	Benign prostatic hyperplasia
+DB01163	Bacterial infections
+DB01164	Magnesium intoxication
+DB01165	Bacterial infections
+DB01166	Intermittent claudication
+DB01167	Fungal infections
+DB01168	Hodgkin's lymphoma
+DB01169	Acute lymphoblastic leukemia
+DB01170	Moderate and severe hypertension
+DB01171	Depression
+DB01172	Bacterial infections
+DB01173	Parkinson's disease
+DB01174	Seizures
+DB01175	Major depression
+DB01176	Nausea
+DB01176	Vomiting
+DB01177	Acute myeloid leukemia
+DB01178	Spasms
+DB01178	Pain
+DB01178	Anxiety disorder
+DB01179	External genital and perianal warts
+DB01180	Hypertension
+DB01181	Cancer
+DB01182	Tachyarrhythmias
+DB01183	Narcotic depression
+DB01184	Gastrointestinal problems
+DB01185	Male hypogonadism
+DB01185	Breast cancer
+DB01186	Parkinson's disease
+DB01188	Fungal infections
+DB01189	Anesthesia
+DB01190	Acne vulgaris
+DB01191	Obesity
+DB01192	Moderate to severe pain
+DB01192	Pain
+DB01193	Hypertension
+DB01193	Ventricular premature beats
+DB01194	Open-angle glaucoma
+DB01194	Ocular hypertension
+DB01195	Tachyarrhythmias
+DB01196	Prostate cancer
+DB01197	Hypertension
+DB01198	Insomnia
+DB01199	Smoking withdrawl syndrom
+DB01199	Anesthesia
+DB01200	Parkinson's disease
+DB01201	Tuberculosis
+DB01202	Epilepsy
+DB01203	High blood pressure
+DB01203	Angina
+DB01204	Cancer
+DB01206	Brain cancer
+DB01206	Glioma
+DB01207	Acute myocardial infarction
+DB01208	Bacterial infections
+DB01209	Pain
+DB01210	Open-angle glaucoma
+DB01211	Bacterial infections
+DB01212	Bacterial infections
+DB01213	Athylene glycol or methanol poisoning
+DB01214	Open-angle glaucoma
+DB01214	Ocular hypertension
+DB01215	Insomnia
+DB01216	Benign prostatic hyperplasia
+DB01217	Breast cancer
+DB01218	Malaria
+DB01219	Malignant hyperthermia
+DB01220	Bacterial infections
+DB01221	Anesthesia
+DB01222	Asthma
+DB01222	Non-infectious rhinitis
+DB01223	Asthma
+DB01223	Bronchial asthma
+DB01224	Schizophrenia
+DB01225	Venous thrombosis
+DB01226	General anesthesia
+DB01228	Heart arrhythmia
+DB01231	Nausea
+DB01231	Vomiting
+DB01231	Emesis
+DB01232	Human immunodeficiency virus infection
+DB01233	Nausea
+DB01233	Vomiting
+DB01234	Rheumatoid arthritis
+DB01235	Parkinson's disease
+DB01236	Anesthesia
+DB01237	Hay fever
+DB01237	Cough
+DB01238	Schizophrenia
+DB01239	Psychotic disorders
+DB01240	Pulmonary hypertension
+DB01241	Hyperlipidaemia
+DB01242	Depression
+DB01244	Chronic stable angina
+DB01245	Muscle relaxant
+DB01247	Depression
+DB01248	Cancer
+DB01248	Cancer
+DB01250	Ulcerative colitis
+DB01251	Diabetes
+DB01252	Diabetes
+DB01254	Chronic myelogenous leukaemia
+DB01254	Multiple myeloma
+DB01255	Attention deficit hyperactivity disorder
+DB01256	Impetigo
+DB01257	Age related macular degeneration
+DB01259	Breast cancer
+DB01260	Atopic dermatitis
+DB01261	Type 2 diabetes
+DB01262	Myelodysplastic syndrome
+DB01263	Aspergillosis
+DB01264	Human immunodeficiency virus infection
+DB01265	HBV infection
+DB01267	Schizophrenia
+DB01268	Gastrointestinal cancers
+DB01268	Advanced renal cell carcinoma
+DB01269	Colorectal cancer
+DB01269	Locally advanced head and neck cancer
+DB01270	Hereditary hemorrhagic telangiectasia
+DB01271	Hunter syndrome
+DB01271	Infertility
+DB01272	Pompe's disease
+DB01272	Type 2 glycogen storage disease
+DB01273	Smoking cessation
+DB01274	Chronic obstructive pulmonary disease
+DB01275	Hypertension
+DB01276	Type 2 diabetes
+DB01276	Unspecified
+DB01277	Growth failure
+DB01278	Type 1/2 diabetes
+DB01279	MucopolysaccharidosisVI
+DB01280	Leukemia
+DB01281	Rheumatoid arthritis
+DB01282	Postpartum haemorrhage
+DB01283	Knee osteoarthritis
+DB01285	Cushing's disease
+DB01288	Asthma
+DB01289	Non-insulin dependent diabetes
+DB01291	Asthma
+DB01295	Hypertension
+DB01295	Angina pectoris
+DB01296	Osteoarthritis
+DB01297	Cardiac arrhythmias
+DB01298	Urinary tract infections
+DB01298	Cystitis
+DB01299	Malaria
+DB01301	Acne vulgaris
+DB01303	Cough
+DB01319	Human immunodeficiency virus infection
+DB01320	Epilepsy
+DB01320	Convulsion
+DB01321	Bacterial infections
+DB01324	Hypertension
+DB01324	Edema
+DB01325	Hypertension
+DB01325	Congestive heart failure
+DB01326	Infections by susceptible microorganisms
+DB01327	Bacterial infections
+DB01328	Bacterial infections
+DB01329	Bacterial infections
+DB01330	Bacterial infections
+DB01331	Bacterial infections
+DB01332	Bacterial infections
+DB01333	Bacterial infections
+DB01337	Anesthesia
+DB01338	Spasms
+DB01338	Pain
+DB01339	Spasms
+DB01339	Pain
+DB01340	Congestive heart failure
+DB01342	Hypertension
+DB01347	Hypertension
+DB01348	Hypertension
+DB01349	Hypertension
+DB01351	Insomnia
+DB01351	Anxiety disorder
+DB01352	Insomnia
+DB01352	Anesthesia
+DB01353	Insomnia
+DB01354	Anesthesia
+DB01355	Anesthesia
+DB01357	Oral contraceptives
+DB01359	Hypertension
+DB01359	Angina pectoris
+DB01364	Asthma
+DB01364	Bronchitis
+DB01365	Maintain blood pressure in hypotensive states
+DB01366	Asthma
+DB01367	Parkinson's disease
+DB01369	Bacterial infections
+DB01373	Osteoporosis
+DB01380	Cancer
+DB01382	Diabetes
+DB01384	Diabetic macular edema
+DB01384	Inflammatory disease
+DB01388	Ovarian cancer
+DB01392	Male impotence
+DB01393	Hyperlipidaemia
+DB01394	Acute gouty arthritis
+DB01395	Oral contraceptive
+DB01396	Congestive cardiac insufficiency
+DB01396	Arrhythmias
+DB01396	Heart failure
+DB01399	Rheumatold arthritis
+DB01399	Osteoarthritis
+DB01400	Myasthenia gravis
+DB01401	Osteoarthritis
+DB01403	Bipolar disorder
+DB01405	Bacterial infections
+DB01406	Breast cancer
+DB01406	Menorrhagia
+DB01407	Chronic breathing disorders
+DB01408	Asthma
+DB01409	Chronic obstructive pulmonary disease
+DB01410	Asthma
+DB01410	Obstructive airway diseases
+DB01411	Asthma
+DB01411	Prophylaxis
+DB01412	Asthma
+DB01413	Bacterial infections
+DB01414	Bacterial infections
+DB01415	Chronic bronchitis
+DB01416	Bacterial infections
+DB01418	Thrombosis
+DB01421	Acute and chronic intestinal amebiasis
+DB01425	Emesis
+DB01426	Atrial fibrillation
+DB01427	Congestive heart failure
+DB01429	Cardiac arrhythmias
+DB01430	Chronic obstructive pulmonary disease
+DB01433	Opiate dependence
+DB01437	Insomnia
+DB01438	Pain
+DB01463	Depressive fatigue
+DB01483	Insomnia
+DB01544	Insomnia
+DB01558	Anxiety disorder
+DB01558	Panic attacks
+DB01559	Anxiety disorder
+DB01567	Anxiety disorder
+DB01576	Attention deficit hyperactivity disorder
+DB01576	Narcolepsy
+DB01579	Exogenous obesity
+DB01580	Angina pectoris
+DB01580	Hypertension
+DB01581	Bacterial infections
+DB01582	Bacterial infections
+DB01586	Primary biliary cirrhosis
+DB01588	Anxiety disorder
+DB01589	Insomnia
+DB01590	Advanced kidney cancer
+DB01590	Renal cancer
+DB01591	Overactive bladder disorder
+DB01592	Iron deficiency anaemia
+DB01592	Iron-deficiency anemia
+DB01594	Muscle relaxant
+DB01595	Insomnia
+DB01595	Epilepsy
+DB01597	Bacterial infections
+DB01598	Bacterial infections
+DB01599	Coronary artery disease
+DB01600	Pain
+DB01600	Osteoarthritis
+DB01601	Human immunodeficiency virus infection
+DB01602	Bacterial infections
+DB01603	Bacterial infections
+DB01603	Neurological disease
+DB01604	Bacterial infections
+DB01605	Urinary tract infections
+DB01606	Bacterial infections
+DB01607	Bacterial infections
+DB01611	Malaria
+DB01612	Angina pectoris
+DB01613	Angina pectoris
+DB01615	Sleep disorders
+DB01618	Schizophrenia
+DB01619	Common cold
+DB01619	Allergies
+DB01620	Hay fever
+DB01621	Schizophrenia
+DB01623	Schizophrenia
+DB01624	Schizophrenia
+DB01626	Moderate to severe hypertension
+DB01627	Gram-positive bacterial infection
+DB01628	Rheumatold arthritis
+DB01628	Osteoarthritis
+DB01638	Constipation
+DB01645	Prostate cancer
+DB01656	Asthma
+DB01656	Atopic dermatitis
+DB01656	Chronic obstructive pulmonary disease
+DB01677	Pustular palmoplantar psoriasis
+DB01677	Multiple sclerosis
+DB01685	Gout
+DB01708	Chronic obstructive pulmonary disease
+DB01744	Rubefacient
+DB01764	Bacterial infections
+DB01775	Sunburn
+DB01783	Vitamin deficiency
+DB01791	Rheumatoid arthritis
+DB01816	Diabetes
+DB01873	Breast cancer
+DB01917	Burns and burn infection
+DB02132	Diabetic neuropathy
+DB02134	Apnea
+DB02175	Neurodegenerations
+DB02175	Epilepsy
+DB02175	Neuropathic pain
+DB02175	Drug addiction
+DB02175	Schizophrenia
+DB02266	Dysmenorrhea
+DB02300	Psoriasis
+DB02341	Inflammatory disease
+DB02342	Pulmonary arterial hypertension
+DB02383	Diabetic cataract
+DB02424	Kidney cancer
+DB02424	Peripheral nerve damage
+DB02546	CutaneousT-cell lymphoma
+DB02638	Hypertension
+DB02660	Chronic obstructive pulmonary disease
+DB02701	Inflammatory skin condition
+DB02703	Bacterial infections
+DB02742	Muscular dystrophy
+DB02745	Depression
+DB02789	Schizophrenia
+DB02918	Chronic obstructive pulmonary disease
+DB02962	Human cytomegalovirus infection
+DB03128	Cataract
+DB03395	Glaucoma
+DB03419	Unspecified
+DB03516	Hyperlipidaemia
+DB03585	Arthritis
+DB03585	Bursitis
+DB03604	Wound healing
+DB03695	Bladder cancer
+DB03701	Cocaine addiction
+DB03754	Acidosis
+DB03783	Analgesia
+DB03793	Fungal infections
+DB03849	Asthma
+DB03849	Chronic obstructive pulmonary disease
+DB03849	Emphysema
+DB03849	Bronchitis
+DB03849	Chronic obstructive pulmonary disease
+DB03880	Ischemic stroke
+DB03904	Dermatological disease
+DB04106	Cancer
+DB04173	Emesis
+DB04209	Myeloneuropathy
+DB04216	Obesity
+DB04258	Rickets
+DB04339	Chronic obstructive pulmonary disease
+DB04348	Type 2 diabetes
+DB04365	Parkinson's disease
+DB04468	Breast cancer
+DB04539	Malaria
+DB04552	Rheumatoid arthritis
+DB04552	Dysmenorrhea
+DB04570	Bacterial infections
+DB04573	Multiple scierosis
+DB04573	Hormone deficiency
+DB04575	Breast cancer
+DB04575	Prostate cancer
+DB04575	Female infertility
+DB04576	Bacterial infections
+DB04599	Cerebrovascular ischaemia
+DB04630	Hypertension
+DB04655	Advanced cancers
+DB04660	Amnesia
+DB04690	Solid tumours
+DB04703	Capillary fragility
+DB04725	Osteoarthritis
+DB04786	African trypanosomiasis
+DB04787	Estrogen deficiency
+DB04794	Fungal infections
+DB04817	Fever
+DB04821	Breast cancer
+DB04824	Constipation
+DB04828	Pain
+DB04829	Addiction
+DB04832	Depression
+DB04835	Chronic obstructive pulmonary disease
+DB04835	Human immunodeficiency virus infection
+DB04836	Major depressive disorder
+DB04838	Dementia
+DB04840	Hypertension
+DB04841	Migraine
+DB04842	Schizophrenia
+DB04843	Peptic ulcer
+DB04843	Gastrointestinal disease
+DB04844	Huntington's disease
+DB04844	Hyperkinetic movement disorder
+DB04845	Advanced breast cancer
+DB04849	Fallopian tube cancer
+DB04849	Ovarian cancer
+DB04849	Peritoneal cavity cancer
+DB04853	Hypertension
+DB04854	Hyperuricaemia in gout
+DB04855	Angina pectoris
+DB04855	Atrial fibrillation
+DB04856	Pancreatic disease
+DB04857	Parkinson's disease
+DB04860	HCV infection
+DB04861	Hypertension
+DB04863	Angina pectoris
+DB04864	Epileptic seizures
+DB04864	Alzheimer disease
+DB04865	Chronic or accelerated-phase chronic myeloid leukaemia
+DB04867	Pancreatic cancer
+DB04867	Obesity
+DB04868	Chronic myelogenous leukaemia
+DB04869	Migraine
+DB04871	Drug abuse
+DB04871	Obesity
+DB04872	Depression
+DB04872	Schizophrenia
+DB04872	Schizoaffective disorders
+DB04876	Type 2 diabetes
+DB04878	Diabetes
+DB04879	Solid tumours
+DB04880	Congestive heart failure
+DB04881	Cancer
+DB04883	Hypotension
+DB04884	Premature ejaculation
+DB04885	Irritable bowel syndrome
+DB04886	Mycobacterium tuberculosis infection
+DB04887	Human immunodeficiency virus infection
+DB04888	Schizophrenia
+DB04889	Chronic low back pain
+DB04889	Neuropathic pain
+DB04890	Allergic rhinitis
+DB04890	Urticaria
+DB04890	Pruritus
+DB04895	Neovascular age-related macular degeneration
+DB04896	Depression
+DB04898	Coagulation
+DB04899	Acutely decompensated congestive heart failure
+DB04901	Lymphoma
+DB04903	Anxiety disorder
+DB04905	Breast cancer
+DB04905	Prostate cancer
+DB04908	Female sexual dysfunction
+DB04908	Mood disorder
+DB04910	Pediatric cancer
+DB04912	Neonatal hyperbilirubinemia
+DB04912	 Jaundice
+DB04917	Irritable bowel syndrome
+DB04918	Intensive care unit
+DB04918	Bacterial infections
+DB04919	Peripheral vascular disease
+DB04925	Ischemic stroke
+DB04926	Cancer pain
+DB04930	Infections with sarcoptes scabiei
+DB04932	Diabetic nephropathy
+DB04932	Hepatic veno-occlusive disease
+DB04933	Septic shock
+DB04934	Bacterial infections
+DB04938	Dyspareunia
+DB04938	Post-menopausal vaginal atrophy
+DB04941	HIV-associated diarrhoea
+DB04942	Alzheimer disease
+DB04946	Schizophrenia
+DB04947	Attention deficit hyperactivity disorder
+DB04948	Heroin and opiate withdrawal
+DB04951	Idiopathic pulmonary fibrosis
+DB04954	Atrial fibrillation
+DB04954	Cardiac arrhythmias
+DB04957	Atrial fibrillation
+DB04958	Systemic lupus erythematosus
+DB04958	Graft rejection in heart transplantation
+DB04964	Ovarian cancer
+DB04967	Cancer
+DB04972	Solid tumours
+DB04973	Solid tumours
+DB04975	Acute lymphoblastic leukemia
+DB04985	Hormone refractory prostate cancer
+DB05009	Coronary disorder diagnosis
+DB05013	Actinic keratosis
+DB05018	Fabry's disease
+DB05022	Breast cancer
+DB05022	Ovarian cancer
+DB05022	Prostate cancer
+DB05025	Cerebrovascular ischaemia
+DB05034	Heart failure
+DB05035	Cardiovascular disorder
+DB05039	Chronic obstructive pulmonary disease
+DB05064	Diabetes
+DB05064	Type 2 diabetes
+DB05073	Colorectal cancer
+DB05077	Obesity
+DB05084	Postmenopausal osteoporosis at high risk for fracture
+DB05087	Epilepsy
+DB05092	Multiple sclerosis
+DB05092	Rheumatoid arthritis
+DB05095	Pain
+DB05098	Alzheimer disease
+DB05099	Blood forming organ disorders
+DB05101	Gastric cancer
+DB05104	Diarrhea-predominantIBS
+DB05105	Viral infections
+DB05111	Inflammatory bowel disease
+DB05111	Rheumatoid arthritis
+DB05115	Diabetes
+DB05119	Arteriosclerosis
+DB05129	Late-stage solid tumors
+DB05130	Obese insulin-resistant disorders
+DB05130	Rheumatoid arthritis
+DB05134	Breast cancer
+DB05134	Melanoma
+DB05134	Multiple myeloma
+DB05137	Substance dependence
+DB05188	Metabolic disease
+DB05188	Obesity
+DB05198	Solid tumours
+DB05202	Thrombosis
+DB05210	Solid tumours
+DB05212	Type 2 diabetes
+DB05219	Atopic dermatitis
+DB05223	Myelodysplastic syndrome
+DB05223	Myelofibrosis
+DB05224	Bacterial infections
+DB05225	Cardiovascular disorder
+DB05232	Bacterial infections
+DB05246	Epileptic seizures
+DB05254	Wound healing
+DB05255	Osteoporosis
+DB05260	Hypercalcemia
+DB05262	Heart failure
+DB05266	Opioid-related disorders
+DB05266	Diabetic neuropathy
+DB05276	HBV infection
+DB05294	Solid tumours
+DB05298	Chronic obstructive pulmonary disease
+DB05299	Bladder cancer
+DB05305	Brain cancer
+DB05311	Retinal venous occlusion
+DB05316	Parkinson disease psychosis
+DB05316	Parkinson's disease
+DB05316	Psychosis
+DB05316	Schizophrenia
+DB05332	Chemotherapy-induced thrombocytopenia
+DB05332	Myelodysplastic syndromes
+DB05332	Thrombocytopenia
+DB05351	Erosive esophagitis
+DB05351	Non-erosive gastro-esophageal reflux disease
+DB05372	Obesity
+DB05374	Brain cancer
+DB05374	Glioblastoma multiforme
+DB05395	Major depressive disorder
+DB05395	Obesity
+DB05395	Type 2 diabetes
+DB05395	Major depressive disorder
+DB05395	Severe mood disorders
+DB05407	Hypotension
+DB05408	Hepatic fibrosis
+DB05420	Human immunodeficiency virus infection
+DB05428	Brain cancer
+DB05428	Human immunodeficiency virus infection
+DB05434	Solid tumours
+DB05442	Rhinitis
+DB05460	Myelodysplastic syndrome
+DB05461	Peripheral vascular disease
+DB05464	Type 2 diabetes
+DB05465	Glioblatoma
+DB05465	Gliosarcoma
+DB05465	Anaplastic mixed oligoastrocytoma
+DB05470	Coronary artery disease
+DB05470	Inflammatory disorder
+DB05470	Rheumatold arthritis
+DB05470	Coronary artery disease
+DB05472	HCV infection
+DB05475	Immuno-modulator
+DB05476	Solid tumours
+DB05487	Prostate cancer
+DB05494	Late-stage acute myeloid leukemia
+DB05518	Type 2 diabetes
+DB05521	HCV infection
+DB05524	Lymphoma
+DB05541	Pain
+DB05541	Epilepsy
+DB05541	Partial-onset seizures
+DB05542	Gastroesophageal reflux disease
+DB05552	Angioedema
+DB05552	Myocardial infarction
+DB05578	Gastric cancer
+DB05595	Ovarian cancer
+DB05607	Pulmonary arterial hypertension
+DB05630	Solid tumours
+DB05644	Human immunodeficiency virus infection
+DB05644	Pneumococcal infections
+DB05668	Soft tissue sarcoma
+DB05675	Cardiovascular disorder
+DB05676	Psoriasis
+DB05678	Diabetes
+DB05678	Dyslipidaemias
+DB05678	Hyperlipidaemia
+DB05679	Crohn's disease
+DB05679	Inflammatory bowel disease
+DB05679	Moderate-to-severe plaque psoriasis
+DB05679	Psoriasis
+DB05687	Schizophrenia
+DB05708	Parkinson's disease
+DB05710	Anesthesia
+DB05713	Thrombosis
+DB05714	Thrombosis
+DB05737	Rheumatoid arthritis
+DB05767	Bacillary dysentery
+DB05771	Psoriasis
+DB05812	Metastatic castration-resistant prostate cancer
+DB05814	Parkinson's disease
+DB05854	Type 2 diabetes
+DB05864	Autoimmune diabetes
+DB05871	Human immunodeficiency virus infection
+DB05885	Epilepsy
+DB05889	Aggressive non-hodgkin's lymphoma
+DB05913	Solid tumours
+DB05928	EndometriumCancer
+DB05931	Non-small cell lung cancer
+DB05934	Hematopoietic
+DB05943	Sepsis
+DB05944	Breast cancer
+DB05959	Solid tumours
+DB05969	Solid tumours
+DB05990	Insomnia
+DB05990	Primary biliary cholangitis
+DB06016	Bipolar disorder
+DB06043	Non-small cell lung cancer
+DB06043	Ovarian cancer
+DB06043	Soft tissue sarcoma
+DB06069	Solid tumours
+DB06070	Cancer
+DB06070	Hematological malignancies
+DB06080	Solid tumours
+DB06082	Cancer
+DB06101	Cancer
+DB06103	Psoriasis
+DB06134	Solid tumours
+DB06144	Schizophrenia
+DB06145	Bacterial infections
+DB06148	Depression
+DB06151	Liver disease
+DB06154	Angina pectoris
+DB06155	Obesity
+DB06157	Cardiotonic
+DB06159	Human immunodeficiency virus infection
+DB06162	Leukemia
+DB06168	Cryopyrin-associated periodic syndromes
+DB06168	Rheumatoid arthritis
+DB06168	Urticaria
+DB06168	Vasculitis
+DB06176	CutaneousT-cell lymphoma
+DB06176	PeripheralT-cell lymphoma
+DB06176	Renal cell carcinoma
+DB06176	Hormone refractory prostate cancer
+DB06184	Cancer
+DB06185	Refractory cutaneousT-cell lymphoma
+DB06185	B-cell acute lymphoblastic leukemia
+DB06186	Late-stage melanoma
+DB06186	Prostate cancer
+DB06195	Non-small cell lung cancer
+DB06196	Hereditary angioedema
+DB06201	Epilepsy
+DB06201	Seizures associated with lennox-Gastaut syndrome
+DB06202	Osteoporosis
+DB06203	Type 2 diabetes
+DB06207	Benign prostatic hyperplasia
+DB06209	Acute coronary syndrome
+DB06210	Idiopathic thrombocytopenic purpura
+DB06210	Thrombocytopenia
+DB06211	Gram-positive bacterial infection
+DB06211	Urinary tract infections
+DB06212	Heart failure
+DB06212	Hypervolaemic hyponatraemia
+DB06212	Euvolaemic hyponatraemia
+DB06213	Radionuclide imaging
+DB06216	Schizophrenia
+DB06216	Bipolar disorder
+DB06217	Atrial fibrillation
+DB06218	Convulsions
+DB06218	Epilepsy
+DB06218	Painful diabetic neuropathy
+DB06228	Prophylaxis of deep vein thrombosis
+DB06229	Schizophrenia
+DB06229	Schizoaffective disorders
+DB06230	Opioid addication
+DB06233	Sarcoma
+DB06234	Cytomegalovirus infection
+DB06237	Erectile dysfunction
+DB06240	Adrenocortical carcinoma
+DB06243	African trypanosomiasis
+DB06246	Colorectal cancer
+DB06248	Cystic fibrosis
+DB06249	Breast cancer
+DB06262	Neurogenic orthostatic hypotension
+DB06263	Small-cell lung cancer
+DB06266	BenignProstatic hyperplasia
+DB06266	Prostate disorders
+DB06267	Erectile dysfunction
+DB06271	Central or sensorineural tinnitus
+DB06273	Juvenile idiopathic arthritis
+DB06273	Rheumatoid arthritis
+DB06274	Gastrointestinal disease
+DB06274	Pain
+DB06281	Peripheral vascular disease
+DB06281	Hyperlipidemia
+DB06285	Osteogenesis imperfecta
+DB06285	Unspecified
+DB06287	Renal cancer
+DB06288	Schizophrenia
+DB06290	ChronicHCV infection
+DB06292	Type 2 diabetes
+DB06311	Arteriosclerosis
+DB06317	Multiple myeloma
+DB06333	Obesity
+DB06335	Type 2 diabetes
+DB06350	Myocardial infarction
+DB06358	Bacterial infections
+DB06360	Lymphoma
+DB06362	Solid tumours
+DB06366	Breast cancer
+DB06367	Bone metastases
+DB06367	Osteoporosis
+DB06371	Cancer
+DB06371	Psoriasis
+DB06371	Lymphoma
+DB06372	Acute gout flare
+DB06372	Arthritis
+DB06393	Alzheimer disease
+DB06393	Peripheral sensory neuropathies
+DB06393	Lateral sclerosis
+DB06401	Osteopetrosis
+DB06403	Pulmonary arterial hypertension
+DB06406	Thrombosis
+DB06410	Chronic kidney disease
+DB06410	 Kidney transplantation
+DB06412	Aplastic anemia
+DB06413	Pediatric cancer
+DB06414	HIV-1 infection
+DB06421	Inflammatory bowel disease
+DB06439	Cystic fibrosis
+DB06441	Thrombosis
+DB06442	Peripheral vascular disease
+DB06444	Traumatic brain injury
+DB06446	Migraine
+DB06448	Non-small cell lung cancer
+DB06468	Angina pectoris
+DB06469	Acute myeloid leukemia
+DB06469	Acute myeloid leukemia
+DB06469	Prostate cancer
+DB06469	Pancreatic cancer
+DB06469	Myeloid leukemia
+DB06469	Psoriasis
+DB06470	Stroke
+DB06472	Thromboembolism
+DB06512	Anxiety disorder
+DB06515	Neuropathic pain
+DB06518	Rheumatoid arthritis
+DB06521	Type 2 diabetes
+DB06533	Type 1 diabetes
+DB06534	Thrombocytopenia
+DB06536	Type 1 diabetes
+DB06538	Anxiety disorder
+DB06549	Brain cancer
+DB06558	Cardiotonic
+DB06579	Sleep disorders
+DB06581	Human immunodeficiency virus infection
+DB06594	Major depressive disorder
+DB06595	Acute myeloid leukemia
+DB06595	Breast cancer
+DB06595	Colorectal cancer
+DB06595	Colon cancer
+DB06595	Breast cancer
+DB06595	CLL
+DB06595	AML
+DB06595	GIST
+DB06599	Cancer
+DB06602	Asthma
+DB06602	Eosinophilic esophagitis
+DB06602	Severe asthma
+DB06602	Loiasis
+DB06602	Eosinophilic asthma
+DB06602	Severe asthma
+DB06603	Primary myelofibrosis
+DB06603	Post-polycythemia vera
+DB06603	Post-essential thrombocytopenia
+DB06603	CutaneousT cell-lymphomas
+DB06603	Type 2 diabetes
+DB06605	Thrombosis
+DB06607	Malignant pleural effusion
+DB06612	Asthma
+DB06612	Eosinophilic oesophagitis
+DB06612	Hypereosinophilia
+DB06612	Severe asthma
+DB06612	Nasal polyposis
+DB06614	Influenza virus
+DB06616	Advanced breast cancer
+DB06623	Cancer pain
+DB06623	Fibromyalgia
+DB06626	Advanced renal cell carcinoma
+DB06634	Chemotherapy-induced nausea
+DB06635	Angina pectoris
+DB06637	Multiple scierosis
+DB06641	Solid tumours
+DB06642	Exudative age-related macular degeneration
+DB06643	Bone metastases in prostate cancer
+DB06643	Postmenopausal osteoporosis
+DB06643	Rheumatoid arthritis
+DB06650	Chronic lymphocytic leukaemia
+DB06650	Diffuse largeB-cell lymphoma
+DB06650	Multiple sclerosis
+DB06650	Rheumatold arthritis
+DB06650	Follicular lymphoma
+DB06652	Human immunodeficiency virus infection
+DB06654	Idiopathic parkinson's disease
+DB06654	Parkinson's disease
+DB06655	Obesity
+DB06655	Type 2 diabetes
+DB06660	Depression
+DB06660	Anxiety
+DB06663	Cushing's disease
+DB06670	Ostereoporosis
+DB06674	Inflammatory bowel disease
+DB06674	Rheumatoid arthritis
+DB06674	Rheumatold arthritis
+DB06674	Psoriatic arthritis
+DB06674	Ankylosing spondylitis
+DB06677	Vasospasm following subarachnoid hemorrhage
+DB06680	Endometriosis
+DB06681	Heart transplant rejection
+DB06681	Kidney transplant rejection
+DB06684	Major depressive disorder
+DB06688	HIV-1 infection
+DB06689	Bleeding
+DB06691	Allergy
+DB06692	Bleeding
+DB06694	Allergic rhinitis
+DB06696	Bacterial infections
+DB06700	Major depressive disorder
+DB06700	Major depressive disorder
+DB06700	Menopausal staging
+DB06700	Vasomotor symptoms
+DB06709	Asthma
+DB06710	Cancer
+DB06711	Corneal vascularity
+DB06711	Hyperaemia
+DB06711	Itching
+DB06714	Obesity
+DB06720	Metabolic disorders
+DB06725	Migraine
+DB06729	Bacterial infections
+DB06736	Inflammatory disease
+DB06738	Pain
+DB06739	Allergic asthma
+DB06741	Nerve injury
+DB06751	Irritable bowel syndrome
+DB06752	Musculoskeletal disease
+DB06754	Deep venous clots
+DB06766	Allergic conjunctivitis
+DB06771	Ocular inflammation
+DB06772	Breast cancer
+DB06772	Prostate cancer
+DB06772	Solid tumours
+DB06774	Neuropathic pain
+DB06775	Acute hyperammonaemia
+DB06780	Unspecified
+DB06781	Inflammation and pain associated with ocular surgery
+DB06782	Poison intoxication
+DB06785	Ovulation
+DB06786	Certain skin conditions
+DB06788	Central precocious puberty
+DB06788	Endometriosis
+DB06788	Polycystic ovarian disease
+DB06802	Osteoarthritis
+DB06809	Human immunodeficiency virus infection
+DB06809	Non-hodgkin's lymphoma
+DB06809	Late-stage solid tumors
+DB06813	PeripheralT-cell lymphoma
+DB06813	Breast cancer
+DB06817	Human immunodeficiency virus infection
+DB06821	Bacterial infections
+DB06825	Cancer
+DB07101	Breast cancer
+DB07101	Colon tumor
+DB07101	NSCLC
+DB07425	Dyslipidaemias
+DB07477	Arthritis
+DB07615	Ocular allergy
+DB07931	Irregularities
+DB07933	Prostate hyperplasia
+DB07941	Chronic obstructive pulmonary disease
+DB08059	Hematologic malignancies
+DB08080	Glaucoma
+DB08188	Human immunodeficiency virus infection
+DB08407	Bacterial infections
+DB08604	Bacterial infections
+DB08621	Bacterial infections
+DB08633	Solid tumours
+DB08799	Nasal congestion
+DB08807	Hypertension
+DB08810	Functional dyspepsia
+DB08819	Glaucoma
+DB08820	Cystic fibrosis
+DB08828	Metastatic or locally advanced basal cell carcinoma
+DB08864	Human immunodeficiency virus infection
+DB08865	ALK-positive advanced or metastaticNSCLC
+DB08867	Contraception
+DB08868	Primary progressive multiple sclerosis
+DB08869	HIV lipodystrophy
+DB08870	Hodgkin's lymphoma
+DB08870	Systemic anaplastic large cell lymphoma
+DB08871	Breast cancer
+DB08872	Unspecified
+DB08873	HCV infection
+DB08874	Clostridium difficile associated diarrhea
+DB08875	Medullary thyroid cancer
+DB08875	Metastatic castration-resistant prostate cancer
+DB08875	Ovarian cancer
+DB08875	Thyroid cancer
+DB08875	Renal cell carcinoma
+DB08877	Essential thrombocythemia
+DB08877	Pancreatic cancer
+DB08877	Polycythemia vera
+DB08879	Systemic lupus erythematosus
+DB08880	Multiple scierosis
+DB08880	Rheumatoid arthritis
+DB08881	Metastatic melanoma
+DB08881	Thyroid cancer
+DB08882	Type 2 diabetes
+DB08885	Metastatic colorectal cancer
+DB08888	Symptomatic vitreomacular adhesion
+DB08889	Multiple myeloma
+DB08890	Constipation
+DB08890	Postoperative ileus
+DB08892	FragileX syndrome
+DB08893	Overactive bladder disorder
+DB08895	Rheumatoid arthritis
+DB08896	Metastatic colorectal cancer
+DB08897	Chronic obstructive pulmonary disease
+DB08899	Metastatic castration-resistant prostate cancer
+DB08900	Short bowel syndrome
+DB08901	Acute lymphoblastic leukemia
+DB08902	Anthrax
+DB08903	Multi-drug resistant tuberculosis
+DB08904	Unspecified
+DB08907	Type 2 diabetes
+DB08907	Type 2 diabetes
+DB08910	Systemic sclerosis
+DB08911	Melanoma
+DB08912	Melanoma
+DB08915	Type 2 diabetes
+DB08918	Fibromyalgia
+DB08922	Psychotic disorders
+DB08927	Alcohol use disorders
+DB08930	Human immunodeficiency virus infection
+DB08931	Pulmonary arterial hypertension
+DB08932	Cardiovascular disorder
+DB08933	Tinea pedis
+DB08935	Chronic lymphocytic leukaemia
+DB08950	Hypertension
+DB08954	Cancer pain
+DB08964	Preoperative dilation of cervix before surgical abortion
+DB08995	Hemorrhoids
+DB09018	Dyspepsia
+DB09026	Hypertension
+DB09029	Psoriatic arthritis
+DB09029	Rheumatoid arthritis
+DB09029	Rheumatoid arthritis
+DB09029	Dry eye
+DB09029	Multiple sclerosis
+DB09029	Psoriatic arthritis
+DB09029	Type 1 diabetes mellitus
+DB09029	Alopecia areata
+DB09029	Atopic dermatitis
+DB09030	Myocardial infarction
+DB09031	Leishmaniasis
+DB09031	Visceral leishmaniasis
+DB09034	Insomnia
+DB09035	Hematological malignancies
+DB09036	Anemia
+DB09037	Melanoma
+DB09038	Type 1 diabetes
+DB09040	Fungal infections
+DB09041	Onychomycosis
+DB09043	Type 2 diabetes
+DB09045	Type 2 diabetes
+DB09046	Diabetes
+DB09046	Hypertriglyceridemia
+DB09047	Urinary tract infections
+DB09048	Chemotherapy-induced nausea
+DB09049	Opioid-induced constipation
+DB09052	Acute lymphoblastic leukemia
+DB09053	Chronic lymphocytic leukaemia
+DB09053	Refractory or relapsed mantle cell lymphoma
+DB09063	Non-smallCellLungCancer
+DB09064	Hyperlipoproteinemia
+DB09064	Atherosclerosis
+DB09066	Infertility
+DB09067	Diagnostic imaging
+DB09068	Major depressive disorder
+DB09069	Angina pectoris
+DB09070	Anabolic metabolism
+DB09071	Insomnia
+DB09074	Breast cancer
+DB09074	Ovarian cancer
+DB09076	Chronic obstructive pulmonary disease
+DB09079	Idiopathic pulmonary fibrosis
+DB09079	Non-small cell lung cancer
+DB09079	Ovarian cancer
+DB09080	Chronic obstructive pulmonary disease
+DB09082	Asthma
+DB09082	Chronic obstructive pulmonary disease
+DB09083	Angina pectoris
+DB09085	Pain
+DB09085	Spinal anesthesia
+DB09089	Irritable bowel syndrome
+DB09093	Pseudomonas infection
+DB09097	Hyperprolactinemia
+DB09098	Hormone deficiency
+DB09101	Human immunodeficiency virus infection
+DB09105	Genetic disease
+DB09107	Emesis
+DB09107	 Kidney transplant rejection
+DB09109	HemophiliaA
+DB09116	Alcohol use disorders
+DB09118	Epilepsy
+DB09121	Arthritis
+DB09123	Endometriosis
+DB09129	Red blood cells and indirect hemagglutination
+DB09130	Birth control
+DB09185	Major depressive disorder
+DB09198	Diabetes
+DB09201	Endometriosis
+DB09205	Erectile dysfunction
+DB09207	Emesis
+DB09211	Spinal stenosis
+DB09213	Ankylosing spondylitis
+DB09215	Inflammatory disease
+DB09220	Angina pectoris
+DB09221	Helicobacter pylori infection
+DB09221	Ulcer
+DB09223	Schizophrenia
+DB09224	Alcohol use disorders
+DB09225	Anxiety disorder
+DB09232	High blood pressure
+DB09237	Hypertension
+DB09242	Alcohol use disorders
+DB09256	Cancer
+DB09265	Type 2 diabetes
+DB09272	Diarrhea-predominantIBS
+DB09273	Bronchodilator
+DB09274	Malaria
+DB09274	Malaria
+DB09280	Cystic fibrosis
+DB09282	Angina pectoris
+DB09285	Otitis media
+DB09286	Insomnia
+DB09289	Major depressive disorder
+DB09290	Vomiting and nausea
+DB09300	Dysmenorrhea
+DB09331	Multiple myeloma
+DB09351	Chronic open-angle glaucoma
+DB09351	Ocular hypertension
+DB09369	Prostate cancer
+DB09389	Contraception
+DB09418	Hyperthyroidism
+DB09421	CNS stimulant
+DB09421	Unspecified
+DB09422	Bupicavaine toxicity
+DB09477	Hypertension
+DB09488	Allergic rhinitis
+DB09526	Melasma
+DB09555	Rhinitis
+DB09555	Urticaria
+DB09555	Allergy
+DB09559	Colorectal cancer
+DB09559	SquamousNon-small-cell lung cancer
+DB09564	Type 1/2 diabetes
+DB11079	Pain
+DB11113	Constipation
+DB11156	Worm infections
+DB11362	Pulmonary arterial hypertension
+DB11362	Thrombosis
+DB11363	LungCancer
+DB11367	Bacterial infections
+DB11431	Onchocerciasis
+DB11560	Hyperuricaemia
+DB11569	Plaque psoriasis
+DB11569	Psoriatic arthritis
+DB11582	Muscle spasm
+DB11588	Cystic fibrosis
+DB11596	Anemia
+DB11604	Clostridium infection
+DB11611	Dry eye disease
+DB11619	Breast cancer
+DB11623	Heart failure
+DB11626	Cancer
+DB11632	Parkinson's disease
+DB11633	Candidemia
+DB11633	Invasive candidiasis
+DB11633	Invasive aspergillosis
+DB11635	VitaminE deficiency
+DB11641	Cancer
+DB11642	Schizophrenia
+DB11672	Cancer
+DB11693	Kidney diseases
+DB11693	Heart transplantation
+DB11693	Psoriasis
+DB11699	Fibromyalgia
+DB11714	Advanced or metastatic urothelial carcinoma
+DB11723	Type 2 diabetes
+DB11738	Hypertension
+DB11753	Infections disease
+DB11767	Severely active rheumatoid arthritis
+DB11779	HCV infection
+DB11817	Rheumatold arthritis
+DB11817	Psoriasis
+DB11817	Diabetic nephropathy
+DB11914	Asthma
+DB11914	Chronic obstructive pulmonary disease
+DB11914	Severe asthma
+DB11945	Cancer
+DB11945	Merkel cell carcinoma
+DB11963	Non-small cell lung cancer
+DB11979	Uterine leiomyoma
+DB11988	Multiple scierosis
+DB11988	Multiple sclerosis
+DB11988	Primary progressive
+DB11988	Relapsing or primary progressive forms of multiple sclerosis
+DB12010	Rheumatoid arthritis
+DB12020	Viral infections
+DB12023	Asthma
+DB12023	Chronic obstructive pulmonary disease
+DB12023	Asthma
+DB12023	Chronic obstructive pulmonary disease
+DB12023	Hypereosinophilic syndrome
+DB12023	 asthma
+DB12023	Eosinophilic chronic rhinosinusitis
+DB12095	Carcinoid syndrome
+DB12095	Carcinoid syndrome diarrhea
+DB12116	Liver fibrosis
+DB12129	Osteosarcoma
+DB12140	Acute lung injury
+DB12140	Acute respiratory distress syndrome
+DB12153	Cerebrovascular ischaemia
+DB12159	Asthma
+DB12159	Moderate-to-severe atopic dermatitis
+DB12161	Chorea associated with huntington's disease
+DB12163	Diabetes
+DB12202	Head and neck cancer
+DB12250	Liver cancer
+DB12250	Non-small cell lung cancer
+DB12267	ALK-positive metastatic non-small cell lung cancer
+DB12271	Diabetes
+DB12278	Urinary incontinence
+DB12305	Mood disorder
+DB12319	Gout
+DB12323	Leukemia
+DB12328	Molluscum contagiosum infection
+DB12332	BRCA-positive ovarian cancer
+DB12332	Breast cancer
+DB12332	Ovarian cancer
+DB12334	Cancer
+DB12364	Cerebrovascular ischaemia
+DB12364	Venous thromboembolism
+DB12465	Hypertension
+DB12518	Psychotic disorders
+DB12555	Sleep disorders
+DB12565	Cancer
+DB12579	Schizophrenia
+DB12582	Vitiligo
+DB12589	LargeB-cell lymphoma
+DB12589	Non-hodgkin's lymphoma
+DB12598	Pancreatitis
+DB12610	Reperfusion injury and stroke
+DB12615	Pancreatic cancer
+DB12637	Contraception
+DB12662	Diabetes
+DB12670	Heart failure
+DB12688	Haematological malignancies
+DB12693	Anxiety disorder
+DB12698	HIV-1 infection
+DB12731	Leukemia
+DB12773	Advanced renal cell carcinoma
+DB12773	Systemic lupus erythematosus
+DB12773	Myositis
+DB12831	Pancreatitis
+DB12855	Human immunodeficiency virus infection
+DB12865	Secondary hyperparathyroidism
+DB12890	Psychotic disorders
+DB12924	Bacterial infections
+DB13025	Alcohol use disorders
+DB13036	Perennial allergic rhinitis
+DB13044	Prostate cancer
+DB13074	Growth hormone deficiency
+DB13092	Bacterial infections
+DB13151	Bleeding
+DB13161	Spinal muscular atrophy
+DB13167	Rheumatoid arthritis
+DB13170	Chronic idiopathic constipation
+DB13173	Late infantile neuronal ceroid lipofuscinosis type 2
+DB13179	Bacterial infections
+DB13345	Alcohol use disorders
+DB13346	Dermatitis
+DB13615	Cancer
+DB13872	Nasal polyposis
+DB13876	Anxiety disorder
+DB13919	Hypertension
+DB13928	Type 2 diabetes
+DB13946	Hypogonadism
+DB13952	Hormone replacement therapy
+DB13954	Hormone replacement therapy
+DB13956	Hormone replacement therapy
+DB13988	Sleep disorders
+DB13999	Hemophilia
+DB14006	Inflammatory disease
+DB14011	Cancer pain
+DB14034	Diabetes
+DB14059	Cancer
+DB14064	Cerebrovascular ischaemia
+DB14065	Migraine
+DB14066	Colorectal cancer
+DB14068	Cancer
+DB14069	Solid tumours
+DB14487	Wilson's disease
+DB14498	Kidney stones
+DB14507	Manic episodes associated with bipolar disorder
+DB14509	Manic depression
+DB14533	Common cold
+DB14575	Seizures
+DB14642	Amnesia
