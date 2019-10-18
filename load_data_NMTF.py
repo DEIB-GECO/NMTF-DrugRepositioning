@@ -14,12 +14,10 @@ import csv
 class loader:
     
     #we initialize the loader by giving the paths to the files.
-    def __init__(self, f_drugs, f_proteins, f_pathways, f_labelsdrugs, f_network, f_drugsdiseases, f_protprot, f_pathpath):
-        self.drug_file = './data/' + f_drugs
-        self.proteins_file = './data/' + f_proteins
-        self.pathways_file = './data/' + f_pathways
-        self.labelsdrugs_file = './data/' + f_labelsdrugs
-        self.network_file = './data/' + f_network
+    def __init__(self, f_drugslabels, f_drugsproteins, f_proteinspathways, f_drugsdiseases, f_protprot, f_pathpath):
+        self.drugslabels_file = './data/' + f_drugslabels
+        self.drugsproteins_file = './data/' + f_drugsproteins
+        self.proteinspathways_file = './data/' + f_proteinspathways
         self.drugsdiseases_file = './data/' + f_drugsdiseases
         self.intraprot_file = './data/' + f_protprot
         self.intrapath_file = './data/' + f_pathpath
@@ -27,40 +25,46 @@ class loader:
     
     #Then we can use this method to return the needed matrices
     def association_matrices(self):
-        
-        with open(self.drug_file, "r") as d:
-            reader = csv.reader(d)
-            dr = list(reader)
-        d.close()
-        drugs = [element[0] for element in dr] #drugs is the list of drug IDs
-        
-        
-        with open(self.proteins_file, "r") as d:
-            reader = csv.reader(d)
-            pr = list(reader)
-        d.close()    
-        proteins = [element[0] for element in pr] #proteins is a list of protein IDs
-        
-        
-        with open(self.pathways_file, "r") as d:
-            reader = csv.reader(d)
-            pa = list(reader)
-        d.close()    
-        pathways = [element[0] for element in pa] #pathways is a list of pathway IDs
-        
-        with open(self.labelsdrugs_file, "r") as f:
-            f.readline()
-            LabelToDrug = [element.split('\t') for element in f.readlines()]
-            labels = [i[2][:-1] for i in LabelToDrug if i[0] in drugs]
+
+        drug_set = set()
+        protein_set = set()
+        with open(self.drugsproteins_file, "r") as dp:
+            for line in dp:
+                (drug, protein) = line.strip().split("\t")
+                drug_set.add(drug)
+                protein_set.add(protein)
+        dp.close()
+        drugs = list(drug_set)
+        proteins = list(protein_set)
+
+        pathway_set = set()
+        with open(self.drugsproteins_file, "r") as pp:
+            for line in dp:
+                (protein, pathway) = line.strip().split("\t")
+                pathway_set.add(pathway)
+        pp.close()
+        pathways = list(pathway_set)
+
+        #TODO: check that the loaded proteins list are coherent (same for drugs and paths)
+
+        with open(self.drugslabels_file, "r") as f:
+            LabelToDrug = [element.strip().split('\t') for element in f.readlines()]
+            labels = [i[1] for i in LabelToDrug if i[0] in drugs]
         f.close()
         labels = list(set(labels))
         labels.sort() #list of labels, sorted in the alphabetical order
-        edges12 = [(link[0], link[2][:-1]) for link in LabelToDrug] #edges12 contains edges between labels and drugs
+        edges12 = [(link[0], link[1]) for link in LabelToDrug] #edges12 contains edges between drugs and labels
         
-        with open(self.network_file, "r") as f:
+        with open(self.drugsproteins_file, "r") as f:
             data_graph = [element.split() for element in f.readlines()]
         f.close()
-        edges234 = [(element[0],element[1]) for element in data_graph if element[2]=="1"] #edges234 contains edges between drugs and proteins, and proteins and pathways
+        edges23 = [(element[0],element[1]) for element in data_graph if element[2]=="1"] #edges23 contains edges between drugs and proteins
+
+        with open(self.proteinspathways_file, "r") as f:
+            data_graph = [element.split() for element in f.readlines()]
+        f.close()
+        edges34 = [(element[0],element[1]) for element in data_graph if element[2]=="1"] #edges34 contains edges between proteins and pathways
+
 
         with open(self.drugsdiseases_file, "r") as d:
             d.readline()
@@ -88,7 +92,8 @@ class loader:
         G.add_nodes_from(diseases)
         G.add_nodes_from(drugs)
         G.add_edges_from(edges12)
-        G.add_edges_from(edges234)
+        G.add_edges_from(edges23)
+        G.add_edges_from(edges34)
         G.add_edges_from(edgesdd)
 
         R = nx.adjacency_matrix(G, nodelist=labels + drugs + proteins + pathways + diseases)
