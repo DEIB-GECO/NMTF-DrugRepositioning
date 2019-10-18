@@ -38,8 +38,8 @@ class loader:
         proteins = list(protein_set)
 
         pathway_set = set()
-        with open(self.drugsproteins_file, "r") as pp:
-            for line in dp:
+        with open(self.proteinspathways_file, "r") as pp:
+            for line in pp:
                 (protein, pathway) = line.strip().split("\t")
                 pathway_set.add(pathway)
         pp.close()
@@ -58,12 +58,12 @@ class loader:
         with open(self.drugsproteins_file, "r") as f:
             data_graph = [element.split() for element in f.readlines()]
         f.close()
-        edges23 = [(element[0],element[1]) for element in data_graph if element[2]=="1"] #edges23 contains edges between drugs and proteins
+        edges23 = [(element[0],element[1]) for element in data_graph] #edges23 contains edges between drugs and proteins
 
         with open(self.proteinspathways_file, "r") as f:
             data_graph = [element.split() for element in f.readlines()]
         f.close()
-        edges34 = [(element[0],element[1]) for element in data_graph if element[2]=="1"] #edges34 contains edges between proteins and pathways
+        edges34 = [(element[0],element[1]) for element in data_graph] #edges34 contains edges between proteins and pathways
 
 
         with open(self.drugsdiseases_file, "r") as d:
