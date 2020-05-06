@@ -70,7 +70,7 @@ class loader:
             diseases = []
             edgesdd = []
             for row in reader:
-                dd = row[0].split(';')
+                dd = row[0].split('\t')
                 diseases.append(dd[1].lstrip())
                 edgesdd.append((dd[0], dd[1].lstrip()))
         d.close()
