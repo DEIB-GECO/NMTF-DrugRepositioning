@@ -1,6 +1,0 @@
-#integration.strategy	intersection
-#ds1	ds2	file	k1	k2	
-drug    label   ./data/DrugsToLabels.txt	100	100
-drug    protein ./data/DrugsToProteins.txt	100	100
-drug    disease ./data/DrugsToDiseases.txt	100	100
-protein pathway ./data/ProteinsToPathways.txt	100	100
