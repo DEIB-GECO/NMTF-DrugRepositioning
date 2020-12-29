@@ -18,8 +18,6 @@ If you want to run these files, you may need to install the following packages:
 
 *sklearn, matplotlib, tqdm, scipy, numpy, pandas, seaborn, csv, cs, [spherecluster](https://github.com/jasonlaska/spherecluster)*
 
-"...the **go to** statement should be abolished..." .
-
 ## References
 <a id="1">[1]</a> 
 Dissez, G. and Ceddia G., Pinoli, P. and Ceri, S. and Masseroli, M. (2019).
